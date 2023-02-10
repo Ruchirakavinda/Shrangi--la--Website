@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+.logo{
+    width: 20%;
+}
+.navItem{
+    width :max-content;
+    font-weight: 500 ;
+    color: black !important;
+}
+.navItemTwo{
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    transition: 0s;
+}
+.navItemTwoDiff{
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  background-color: #ffffff00;
+  color: #ffffff !important;
+}
+.navItemTwo:hover{
+    background-color: #FFFFFF;
+    color: #000000 !important;
+    content: 'fefsdgfs' !important;
+    transition: 0s;
+}
+.dropDownMain{
+    height: auto;
+    background-color: white;
+    position: absolute;
+    z-index: 9;
+    padding: 20px 0px;
+    display: none;
+    left: 0;
+    margin-top: 7px;
+}
+
+.dropDownEnd{
+  border-top: 0.5px solid rgb(196, 196, 196);
+  text-align: left;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.dropDownOne{
+  display: none;
+}
+.dropDownTwo{
+  display: none;
+}
+.dropDownThree{
+  display: none;
+}
+.dropDownFour{
+  display: none;
+}
+.dropDownFive{
+  display: none;
+}
+.dropDownSix{
+  display: none;
+}
+
+.itemOne:hover > .dropDownOne{
+  display: block;
+}
+.itemTwo:hover > .dropDownTwo{
+  display: block;
+}
+.itemThree:hover > .dropDownThree{
+  display: block;
+  
+}
+.itemFour:hover > .dropDownFour{
+  display: block;
+}
+.itemFive:hover > .dropDownFive{
+  display: block;
+}
+.itemSix:hover > .dropDownSix{
+  display: block;
+}
+
+.navItemChild{
+    border-right:0.5px solid black;
+    padding:0px 15px 0px 0px;
+}
+.icon{
+    padding: 0px 10px;
+}
+
+
+.dropDownTopic{
+    font-weight: 500;
+    color: black;
+    font-family: 'Lobster Two', cursive;
+    font-size: 24px;
+}
+
+.dropDownItems{
+    color: black;
+    display: block;
+    padding: 3px 0px;
+}
+.dropDownItems:hover{
+  color: rgb(160, 139, 0);
+  display: block;
+  padding: 3px 0px;
+}
+
+.btnOne{
+  border:1px solid white;
+  width: 150px;
+  color: white;
+  margin-right: 2%;
+  cursor: pointer;
+}

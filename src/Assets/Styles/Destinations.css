@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.destiMain{
+    margin-top: 500px;
+    padding:100px 0px;
+}
+
+.destiTopic{
+    font-family: 'Lobster Two', cursive;
+    color: #806600;
+    font-size: 60px;
+    font-style: italic;
+}
+
+  .selectdiv select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: block;
+    width: 500px;
+    height: 50px;
+    margin: 10px 0px;
+    padding: 0px 24px;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.75;
+    color: #806600;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #806600;
+    -ms-word-break: normal;
+    word-break: normal;
+  }
+
+  .downArrow{
+    margin-top: 28px !important;
+    margin-left: -30px !important;
+    position: absolute;
+  }
+  
+  .selectItem{
+    padding: 100px !important;
+    color: #806600;
+  }
+.destiRowTwo{
+    position: relative;
+    margin-top:70px !important;
+}
+  .destiImageOne{
+    position: absolute;
+    width: 20%;
+  }
+  .destiImageTwo{
+    width: 100%;
+  }
+
+  .destiCard{
+    background-color: white;
+    width: 100%;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.268);
+    padding: 40px 30px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: -150px;
+  }
+
+  .destiCardTopic{
+    font-family: 'Lobster Two', cursive;
+    font-style: italic;
+    color: #806600;
+  }
+
+  .destiCardCont{
+    margin: 40px 0px;
+    color: black;
+    font-weight: 300;
+  }
+
+  .destiCrdBtn{
+    background-color: #806600;
+    width: 180px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-style: italic;
+    font-family: 'Lobster Two', cursive;
+    font-weight: 300;
+    cursor: pointer;
+  }

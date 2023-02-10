@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.offerTopic{
+    font-family: 'Lobster Two', cursive;
+    color: #806600;
+    font-size: 40px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.offerCrd{
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2) !important;
+    transition: 0.3s;
+    position: relative;
+}
+.offerCrd:hover{
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2)!important;
+    transition: 0.2s;
+}
+.offerCrdToipcSM{
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.offerCrdToipc{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.offerCrdCont{
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.offerCrdButton{
+    border: 1px solid #806600;
+    color: #806600;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px 100px;
+    margin-top: 20px;
+    padding: 5px 0px;
+    cursor: pointer;
+}
+
+
+.memberTag{
+    background-color: rgba(236, 234, 234, 0.818);
+    width: 150px;
+    font-size: 12px;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.264);
+    font-weight: 500;
+    position: absolute;
+    right: 0;
+    margin-top: 10px;
+}
