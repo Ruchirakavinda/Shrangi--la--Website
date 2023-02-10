@@ -1,3 +1,3 @@
 # Shrangi-la Hotel Website
 <br>
-<img src = "https://github.com/Ruchirakavinda/flutter_myfirst/blob/main/screenshots/welcome.jpg" width="30%">
+<img src = "https://github.com/Ruchirakavinda/Shrangi--la--Website/blob/main/screenshot/home.png" width="100%">
